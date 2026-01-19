@@ -34,7 +34,6 @@ An intelligent property listing and pricing platform powered by ASP.NET MVC and 
 * [🤖 ML Model Details](#-ml-model-details)
 * [🎥 Live Demo](#-live-demo)
 * [👨‍💻 Team](#-team)
-* [💬 Feedback](#-feedback)
 
 
 ## ✨ Features
@@ -260,7 +259,7 @@ erDiagram
 ## 🎥 Live Demo
 
 
-* 🎦 [Demo Video](https://www.youtube.com/watch?v=your-demo-video)
+* 🎦 [Demo Video](https://www.youtube.com/watch?v=)
 
 
 ## 👨‍💻 Team
@@ -271,7 +270,3 @@ erDiagram
 | Md. Shahriar Rahman Bhuyian | [Profile](https://www.linkedin.com/in/shahriar-rahman-3893012a8/)      |
 | Kazi Zannatul Tajrin        | [Profile](https://www.linkedin.com/in/kazi-zannatul-tajrin-76b835256/) |
 
-
-## 💬 Feedback
-
-If you have any feedback, suggestions, or want to collaborate — feel free to [open an issue](https://github.com/AfnanRakib/AUST-CODE-REALM/issues) or reach out via Linkedin.
